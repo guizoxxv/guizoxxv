@@ -3,6 +3,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Compartilhando chaves AES utilizando RSA com OpenSSL](https://medium.com/b2w-engineering/compartilhando-chaves-aes-utilizando-rsa-com-openssl-3beffb1b2010?source=rss-12f957494f66------2)
+- [Sharing AES Key using RSA with OpenSSL](https://medium.com/b2w-engineering-en/sharing-aes-key-using-rsa-with-openssl-bc470afd2fb7?source=rss-12f957494f66------2)
+- [NestJS with MongoDB native driver](https://medium.com/@gusiol/nestjs-with-mongodb-native-driver-9d82e377d55?source=rss-12f957494f66------2)
+- [Desenvolvimento na AWS (S3 e SQS) sem custos com Localstack](https://medium.com/@gusiol/desenvolvimento-na-aws-s3-e-sqs-sem-custos-com-localstack-f525d015ca48?source=rss-12f957494f66------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
