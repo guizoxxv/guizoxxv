@@ -3,6 +3,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Disparando Lambda através do Kinesis localmente com AWS SAM](https://medium.com/@gusiol/disparando-lambda-atrav%C3%A9s-do-kinesis-localmente-com-aws-sam-e535e40e795d?source=rss-12f957494f66------2)
+- [Invoking Lambda with Kinesis locally with AWS SAM](https://medium.com/@gusiol/invoking-lambda-with-kinesis-locally-with-aws-sam-61ef77613284?source=rss-12f957494f66------2)
 - [Compartilhando chaves AES utilizando RSA com OpenSSL](https://medium.com/b2w-engineering/compartilhando-chaves-aes-utilizando-rsa-com-openssl-3beffb1b2010?source=rss-12f957494f66------2)
 - [Sharing AES Key using RSA with OpenSSL](https://medium.com/b2w-engineering-en/sharing-aes-key-using-rsa-with-openssl-bc470afd2fb7?source=rss-12f957494f66------2)
 - [NestJS with MongoDB native driver](https://medium.com/@gusiol/nestjs-with-mongodb-native-driver-9d82e377d55?source=rss-12f957494f66------2)
