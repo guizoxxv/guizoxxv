@@ -22,79 +22,79 @@
 <h3 align="left">Skills</h3>
 
 <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:start;">
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt=Linux">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt=html">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt=css">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=javascript">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt=nodejs">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt=npm">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt=expressjs">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt=typescript">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt=sass">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt=php">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt=go">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=react">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt=vue">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt=tailwind">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt=bootstrap">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt=materialui">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt=redux">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt=jquery">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt=laravel">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt=mysql">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt=postgresql">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt=mongodb">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt=aws">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt=docker">
 </span>
-<span style="padding:2px">
+<span style="margin:1px;">
 <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt=git">
 </span>
 </div>
