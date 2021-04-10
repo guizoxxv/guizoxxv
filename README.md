@@ -3,13 +3,14 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
-- [Disparando Lambda através do Kinesis localmente com AWS SAM](https://medium.com/@gusiol/disparando-lambda-atrav%C3%A9s-do-kinesis-localmente-com-aws-sam-e535e40e795d?source=rss-12f957494f66------2)
-- [Invoking Lambda with Kinesis locally with AWS SAM](https://medium.com/@gusiol/invoking-lambda-with-kinesis-locally-with-aws-sam-61ef77613284?source=rss-12f957494f66------2)
+- [Disparando Lambda através do Kinesis localmente com AWS SAM](https://gusiol.medium.com/disparando-lambda-atrav%C3%A9s-do-kinesis-localmente-com-aws-sam-e535e40e795d?source=rss-12f957494f66------2)
+- [Invoking Lambda with Kinesis locally with AWS SAM](https://gusiol.medium.com/invoking-lambda-with-kinesis-locally-with-aws-sam-61ef77613284?source=rss-12f957494f66------2)
 - [Compartilhando chaves AES utilizando RSA com OpenSSL](https://medium.com/b2w-engineering/compartilhando-chaves-aes-utilizando-rsa-com-openssl-3beffb1b2010?source=rss-12f957494f66------2)
 - [Sharing AES Key using RSA with OpenSSL](https://medium.com/b2w-engineering-en/sharing-aes-key-using-rsa-with-openssl-bc470afd2fb7?source=rss-12f957494f66------2)
-- [NestJS with MongoDB native driver](https://medium.com/@gusiol/nestjs-with-mongodb-native-driver-9d82e377d55?source=rss-12f957494f66------2)
-- [Desenvolvimento na AWS (S3 e SQS) sem custos com Localstack](https://medium.com/@gusiol/desenvolvimento-na-aws-s3-e-sqs-sem-custos-com-localstack-f525d015ca48?source=rss-12f957494f66------2)
-- [Hospedando e gerenciando aplicações num mesmo domínio com nginx-proxy e Portainer](https://medium.com/@gusiol/hospedando-e-gerenciando-aplica%C3%A7%C3%B5es-num-mesmo-dom%C3%ADnio-com-nginx-proxy-e-portainer-ce13d3dd5e3e?source=rss-12f957494f66------2)
+- [NestJS with MongoDB native driver](https://gusiol.medium.com/nestjs-with-mongodb-native-driver-9d82e377d55?source=rss-12f957494f66------2)
+- [Desenvolvimento na AWS (S3 e SQS) sem custos com Localstack](https://gusiol.medium.com/desenvolvimento-na-aws-s3-e-sqs-sem-custos-com-localstack-f525d015ca48?source=rss-12f957494f66------2)
+- [nginx-proxy and Portainer: Multiple applications in one domain](https://gusiol.medium.com/nginx-proxy-and-portainer-multiple-applications-in-one-domain-d82efec0750f?source=rss-12f957494f66------2)
+- [Hospedando e gerenciando aplicações num mesmo domínio com nginx-proxy e Portainer](https://gusiol.medium.com/hospedando-e-gerenciando-aplica%C3%A7%C3%B5es-num-mesmo-dom%C3%ADnio-com-nginx-proxy-e-portainer-ce13d3dd5e3e?source=rss-12f957494f66------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Social</h3>
