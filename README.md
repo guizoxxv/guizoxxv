@@ -8,7 +8,7 @@
 - [Compartilhando chaves AES utilizando RSA com OpenSSL](https://medium.com/b2w-engineering/compartilhando-chaves-aes-utilizando-rsa-com-openssl-3beffb1b2010?source=rss-12f957494f66------2)
 - [Sharing AES Key using RSA with OpenSSL](https://medium.com/b2w-engineering-en/sharing-aes-key-using-rsa-with-openssl-bc470afd2fb7?source=rss-12f957494f66------2)
 - [NestJS with MongoDB native driver](https://gusiol.medium.com/nestjs-with-mongodb-native-driver-9d82e377d55?source=rss-12f957494f66------2)
-- [Desenvolvimento na AWS (S3 e SQS) sem custos com Localstack](https://gusiol.medium.com/desenvolvimento-na-aws-s3-e-sqs-sem-custos-com-localstack-f525d015ca48?source=rss-12f957494f66------2)
+- [Desenvolvimento na AWS &lpar;S3 e SQS&rpar; sem custos com Localstack](https://gusiol.medium.com/desenvolvimento-na-aws-s3-e-sqs-sem-custos-com-localstack-f525d015ca48?source=rss-12f957494f66------2)
 - [nginx-proxy and Portainer: Multiple applications in one domain](https://gusiol.medium.com/nginx-proxy-and-portainer-multiple-applications-in-one-domain-d82efec0750f?source=rss-12f957494f66------2)
 - [Hospedando e gerenciando aplicações num mesmo domínio com nginx-proxy e Portainer](https://gusiol.medium.com/hospedando-e-gerenciando-aplica%C3%A7%C3%B5es-num-mesmo-dom%C3%ADnio-com-nginx-proxy-e-portainer-ce13d3dd5e3e?source=rss-12f957494f66------2)
 <!-- BLOG-POST-LIST:END -->
