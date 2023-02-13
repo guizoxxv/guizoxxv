@@ -3,6 +3,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [Typing Vue inject with object destructuring](https://medium.com/@gusiol/typing-vue-inject-with-object-destructuring-f5a2b6067319)
 - [Soft Delete and Unique Constraint](https://gusiol.medium.com/soft-delete-and-unique-constraint-da94b41cff62)
 - [Disparando Lambda através do Kinesis localmente com AWS SAM](https://gusiol.medium.com/disparando-lambda-atrav%C3%A9s-do-kinesis-localmente-com-aws-sam-e535e40e795d?source=rss-12f957494f66)
 - [Invoking Lambda with Kinesis locally with AWS SAM](https://gusiol.medium.com/invoking-lambda-with-kinesis-locally-with-aws-sam-61ef77613284?source=rss-12f957494f66)
