@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack web developer</h3>
 
 ### Posts
-<!-- BLOG-POST-LIST:START -->
+- [Eloquent model timestamp updated without changes](https://medium.com/@gusiol/eloquent-model-timestamp-updated-without-changes-1972c91bb778)
 - [Soft Delete e Unique Constraint](https://gusiol.medium.com/soft-delete-e-unique-constraint-e2e000e0436e)
 - [Typing Vue inject with object destructuring](https://medium.com/@gusiol/typing-vue-inject-with-object-destructuring-f5a2b6067319)
 - [Soft Delete and Unique Constraint](https://gusiol.medium.com/soft-delete-and-unique-constraint-da94b41cff62)
@@ -14,7 +14,6 @@
 - [Desenvolvimento na AWS &lpar;S3 e SQS&rpar; sem custos com Localstack](https://gusiol.medium.com/desenvolvimento-na-aws-s3-e-sqs-sem-custos-com-localstack-f525d015ca48?source=rss-12f957494f66)
 - [nginx-proxy and Portainer: Multiple applications in one domain](https://gusiol.medium.com/nginx-proxy-and-portainer-multiple-applications-in-one-domain-d82efec0750f?source=rss-12f957494f66)
 - [Hospedando e gerenciando aplicações num mesmo domínio com nginx-proxy e Portainer](https://gusiol.medium.com/hospedando-e-gerenciando-aplica%C3%A7%C3%B5es-num-mesmo-dom%C3%ADnio-com-nginx-proxy-e-portainer-ce13d3dd5e3e?source=rss-12f957494f66)
-<!-- BLOG-POST-LIST:END -->
 
 <h3>Social</h3>
 <p>
