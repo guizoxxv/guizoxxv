@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm guizo</h1>
+<h1 align="center">Hi 👋, I'm Gustavo Oliveira</h1>
 <h3 align="center">Full-stack web developer</h3>
 
 ### Posts
+- [Laravel Breeze with Bootstrap](https://gusiol.medium.com/laravel-breeze-with-bootstrap-45e5d6af76b3)
 - [Eloquent model timestamp updated without changes](https://medium.com/@gusiol/eloquent-model-timestamp-updated-without-changes-1972c91bb778)
 - [Soft Delete e Unique Constraint](https://gusiol.medium.com/soft-delete-e-unique-constraint-e2e000e0436e)
 - [Typing Vue inject with object destructuring](https://medium.com/@gusiol/typing-vue-inject-with-object-destructuring-f5a2b6067319)
