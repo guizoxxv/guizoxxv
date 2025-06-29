@@ -2,6 +2,7 @@
 <h3 align="center">Full-stack web developer</h3>
 
 ### Posts
+- [Laravel Octane with FrankenPHP docker development environment with HTTPS](https://gusiol.medium.com/laravel-octane-with-frankenphp-docker-development-environment-with-https-46b0df003af2)
 - [Laravel Breeze with Bootstrap](https://gusiol.medium.com/laravel-breeze-with-bootstrap-45e5d6af76b3)
 - [Eloquent model timestamp updated without changes](https://medium.com/@gusiol/eloquent-model-timestamp-updated-without-changes-1972c91bb778)
 - [Soft Delete e Unique Constraint](https://gusiol.medium.com/soft-delete-e-unique-constraint-e2e000e0436e)
@@ -69,16 +70,10 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt=bootstrap">
 </span>
 <span>
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt=materialui">
-</span>
-<span>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt=redux">
 </span>
 <span>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt=jquery">
-</span>
-<span>
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt=sequelize">
 </span>
 <span>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt=laravel">
@@ -105,13 +100,7 @@
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt=rabbitmq">
 </span>
 <span>
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt=supabase">
-</span>
-<span>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt=docker">
-</span>
-<span>
-<img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white" alt=rancher">
 </span>
 <span>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt=git">
