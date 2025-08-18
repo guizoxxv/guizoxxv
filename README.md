@@ -2,6 +2,7 @@
 <h3 align="center">Full-stack web developer</h3>
 
 ### Posts
+- [Inertia and AJAX](https://gusiol.medium.com/inertia-and-ajax-5367489a49cb)
 - [Debounce Laravel Jobs](https://gusiol.medium.com/debounce-laravel-jobs-ea56b54178c6)
 - [Docker development environment with Laravel Octane, FrankenPHP and HTTPS](https://gusiol.medium.com/laravel-octane-with-frankenphp-docker-development-environment-with-https-46b0df003af2)
 - [Laravel Breeze with Bootstrap](https://gusiol.medium.com/laravel-breeze-with-bootstrap-45e5d6af76b3)
